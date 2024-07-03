@@ -1,26 +1,75 @@
-<h1 align="center">Hi 👋, I'm Chirayu Subedi</h1>
-<h3 align="center">I am a **Full Stack Developer** with expertise in **Python development, AWS cloud services, and WordPress development**. I have a proven ability in creating efficient, scalable, and maintainable software solutions. I'm adept at utilizing AWS services, implementing best practices, and collaborating with cross-functional teams. Committed to continuous learning and staying updated with the latest technologies.</h3>
+# 👋 Hi there! I'm Chirayu Subedi
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chirayusubedi" alt="chirayusubedi" /></a> </p>
+![Developer](https://i.imgur.com/0dSgsnT.jpg)
 
-- 👨‍💻 All of my projects are available at [chirayusubedi.com](chirayusubedi.com)
+I am a **Full Stack Developer** with expertise in **Python development, AWS cloud services, and WordPress development**. My passion lies in creating efficient, scalable, and maintainable software solutions. I stay updated with the latest technologies and enjoy collaborating with cross-functional teams.
 
-- 📫 How to reach me **chirayusubedi84@gmail.com**
+## 🌐 Socials
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chirayu subedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chirayu subedi" height="30" width="40" /></a>
-<a href="https://instagram.com/__chirayu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__chirayu_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/chirayu subedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chirayu subedi" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/h3shPbQf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/h3shPbQf" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chirayu-subedi)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ChirayuSubedi)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🛠️ Skills
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Buy me coffee "> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me coffee " /></a></p><br><br>
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirayusubedi&show_icons=true&locale=en" alt="chirayusubedi" /></p>
+### Frameworks
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirayusubedi&" alt="chirayusubedi" /></p>
+### Platforms & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Chirayu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChirayuSubedi&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChirayuSubedi&layout=compact&theme=radical)
+
+## 🏆 GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ChirayuSubedi&theme=radical)
+
+## 🗂️ Projects
+
+### [SpaceX Plugin](https://github.com/ChirayuSubedi/SpaceX-plugin)
+![SpaceX Plugin](https://i.imgur.com/UXDkHSc.jpg)
+A plugin to display SpaceX launches.
+
+### [Hangman Game](https://github.com/ChirayuSubedi/hangman_game)
+![Hangman Game](https://i.imgur.com/A3WZW2J.jpg)
+A classic hangman game built with Python.
+
+### [SwipeBotLinkedIn](https://github.com/ChirayuSubedi/SwipeBotLinkedIn)
+![SwipeBotLinkedIn](https://i.imgur.com/MXL2bOn.jpg)
+An automatic job apply swipe bot for LinkedIn.
+
+### [Spotify Playlist](https://github.com/ChirayuSubedi/SpotifyPlaylist)
+![Spotify Playlist](https://i.imgur.com/QIb1R5C.jpg)
+Create a Spotify playlist using top billboard API data from your Spotify account.
+
+## 📫 Contact Me
+
+**Email:** chirayu@info.com
+
+**Location:** Bahnhofstrasse, Falkensee, Germany
+
+## 🎨 Design Philosophy
+
+I believe in unique ideas, modern & simple designs, timely delivery, and cost-effectiveness.
+
+## 💼 Work Experience
+
+- **Full-Stack Developer** at Coronita (2023 - Present)
+- **Intern Web Developer** at GITO Events (2022)
+- **Web Developer** at Code Pixel (2019 - 2021)
+
+## 🎓 Education
+
+- **MSc Software Engineering** from University of Europe For Applied Science (2021 - 2022)
+- **BSc Software Engineering** from Northampton University (2017 - 2020)
+- **High School** from United Academy (2014 - 2015)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=ChirayuSubedi&color=blue)
