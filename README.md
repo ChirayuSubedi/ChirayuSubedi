@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Chirayu Subedi
 
-![Developer](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExejYzajFhc2FmYnBxNnJ4b2xibGN6eHR3cmdiY2xiNHhvMDBwcTRmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zhxGnB66MyK4iczQYy/giphy.gif)
+![Developer](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWwwaHZ5MGVsMTdrbmRnZmV2NzJrOGpkYzA2OW10cjNsOTdyZHN2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif)
 
 I am a **Full Stack Developer** with expertise in **Python development, AWS cloud services, and WordPress development**. My passion lies in creating efficient, scalable, and maintainable software solutions. I stay updated with the latest technologies and enjoy collaborating with cross-functional teams.
 
