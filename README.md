@@ -55,7 +55,7 @@ Create a Spotify playlist using top billboard API data from your Spotify account
 
 ## 📫 Contact Me
 
-**Email:** chirayu@info.com
+**Email:** chirayu.subedi.cs84@gmail.com
 
 **Location:** Bahnhofstrasse, Falkensee, Germany
 
